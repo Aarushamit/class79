@@ -1,2 +1,2 @@
-# class79
-continuation of the barter app
+# barter-app-stage-3
+Tab Navigation 
